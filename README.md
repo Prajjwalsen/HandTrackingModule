@@ -1,4 +1,4 @@
-# ✋ HandTrackingModule
+<h1 align="center">✋ HandTrackingModule</h1>
 
 <div align="center">
 
@@ -15,7 +15,7 @@ A professional and reusable computer vision module for real-time hand detection,
 
 ---
 
-# 📌 Features
+#  📌 Features
 
 ✅ Real-time Hand Detection  
 ✅ 21 Hand Landmark Tracking  
@@ -28,7 +28,7 @@ A professional and reusable computer vision module for real-time hand detection,
 
 ---
 
-# 🖼️ Hand Landmark Reference
+#  🖼️ Hand Landmark Reference
 
 ## MediaPipe Hand Landmark Mapping
 
@@ -38,7 +38,7 @@ A professional and reusable computer vision module for real-time hand detection,
 
 ---
 
-# 📂 Project Structure
+#  📂 Project Structure
 
 ```bash
 HandTrackingModule/
@@ -65,7 +65,7 @@ HandTrackingModule/
 
 ---
 
-# 📦 Installation
+#  📦 Installation 
 
 ## 1️⃣ Clone Repository
 
